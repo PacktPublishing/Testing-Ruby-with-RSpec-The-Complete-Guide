@@ -1,0 +1,12 @@
+Download Course Files (Optional)
+The course files are available for download in this lesson.
+
+Please note that these course files are optional. You can proceed through the entire course by creating new _spec.rb files in the spec directory of the folder we created in the last lesson.
+
+There are two options available. 
+
+rspec-course.zip contains the completed course files with all the code I wrote while recording the lessons.
+
+rspec-course-incomplete.zip contains the same files but stripped of any code.
+
+I strongly recommend downloading rspec-course-incomplete.zip and writing out the Ruby / RSpec code yourself as you complete the videos. No amount of tutorials can substitute for real practice.
