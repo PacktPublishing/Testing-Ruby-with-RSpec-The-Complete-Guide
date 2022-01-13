@@ -1,0 +1,8 @@
+Useful links
+
+https://stackoverflow.com/questions/38437162/whats-the-difference-between-rspecs-subject-and-let-when-should-they-be-used
+
+
+https://relishapp.com/rspec/rspec-core/v/3-8/docs/subject/implicitly-defined-subject
+
+https://relishapp.com/rspec/rspec-core/v/3-8/docs/subject/one-liner-syntax
